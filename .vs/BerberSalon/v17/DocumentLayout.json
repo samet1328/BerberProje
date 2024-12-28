@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\ai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\ai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\home\\hakkinda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\home\\hakkinda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\ai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\ai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\home\\hakkinda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\home\\hakkinda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -49,6 +41,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|c:\\users\\samet\\onedrive\\masa\u00FCst\u00FC\\berbersalon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBA04437-43DB-4826-AA7C-F5352827FB7D}|BerberSalon.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,24 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T19:38:38.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -88,26 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-28T19:29:04.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\AI\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\AI\\Index.cshtml",
-              "ToolTip": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\AI\\Index.cshtml",
-              "RelativeToolTip": "Views\\AI\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\AI\\Index.cshtml*",
+              "RelativeToolTip": "Views\\AI\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-28T19:23:08.512Z",
               "EditorCaption": ""
@@ -115,19 +89,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Iletisim.cshtml",
-              "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\Home\\Iletisim.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Iletisim.cshtml",
-              "ToolTip": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\Home\\Iletisim.cshtml",
-              "RelativeToolTip": "Views\\Home\\Iletisim.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T19:22:28.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Hakkinda.cshtml",
               "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\Home\\Hakkinda.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Hakkinda.cshtml",
@@ -140,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -153,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -166,7 +127,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Iletisim.cshtml",
+              "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\Home\\Iletisim.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Iletisim.cshtml",
+              "ToolTip": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Views\\Home\\Iletisim.cshtml",
+              "RelativeToolTip": "Views\\Home\\Iletisim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T19:22:28.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AIController.cs",
               "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Controllers\\AIController.cs",
               "RelativeDocumentMoniker": "Controllers\\AIController.cs",
@@ -179,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -192,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -205,16 +179,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T19:18:22.972Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T19:29:04.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\samet\\OneDrive\\Masa\u00FCst\u00FC\\BerberSalon\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:38:38.104Z"
             }
           ]
         }

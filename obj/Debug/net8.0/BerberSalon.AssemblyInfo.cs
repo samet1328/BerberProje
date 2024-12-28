@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BerberSalon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1084705c003dc8a7b5d40d10f84bb2ddbb540f8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BerberSalon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BerberSalon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
