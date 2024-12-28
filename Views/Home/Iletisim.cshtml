@@ -1,0 +1,26 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "İletişim";
+}
+
+<h2>İletişim</h2>
+<div class="bg-light p-4 rounded mt-4">
+    <p>Bizimle iletişime geçmek için aşağıdaki formu doldurabilir veya bize <strong>info@berbersalonu.com</strong> adresinden ulaşabilirsiniz.</p>
+
+    <!-- Statik form, veri saklanmıyor -->
+    <form>
+        <div class="mb-3">
+            <label for="adSoyad" class="form-label">Ad Soyad</label>
+            <input type="text" class="form-control" id="adSoyad" placeholder="Adınız Soyadınız" />
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label">E-posta</label>
+            <input type="email" class="form-control" id="email" placeholder="ornek@mail.com" />
+        </div>
+        <div class="mb-3">
+            <label for="mesaj" class="form-label">Mesajınız</label>
+            <textarea class="form-control" id="mesaj" rows="3"></textarea>
+        </div>
+        <button type="button" class="btn btn-primary">Gönder</button>
+    </form>
+</div>

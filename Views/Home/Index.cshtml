@@ -1,0 +1,53 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Ana Sayfa";
+}
+
+<!-- HERO BÖLÜMÜ -->
+<div class="bg-light p-5 rounded-3 position-relative overflow-hidden mb-4" style="background-image: url('/images/berber4.jpg'); background-size: cover; background-position: center;">
+    <div class="container" style="max-width: 600px; background-color: rgba(255,255,255,0.8); border-radius: 10px;">
+        <h1 class="display-4 mt-4">Berber Salonu</h1>
+        <p class="lead">
+            Modern saç tasarımlarından kişiye özel berber hizmetlerine kadar
+            bir çok hizmet alabilirsiniz.
+        </p>
+        <hr class="my-4" />
+        <p>
+            Hemen <strong>Yapay Zeka</strong> menüsüne göz atın veya bizimle iletişime geçin!
+        </p>
+        <a class="btn btn-primary btn-lg mb-4" href="@Url.Action("Index","AI")" role="button">
+            Yapay Zeka Önerileri
+        </a>
+    </div>
+</div>
+
+<!-- ÖNE ÇIKAN ÖZELLİKLER -->
+<div class="row text-center g-4">
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <img src="/images/berber3.jpg" class="card-img-top" alt="Örnek Saç Modeli" />
+            <div class="card-body">
+                <h5 class="card-title">Modern Saç Modelleri</h5>
+                <p class="card-text">Klasikten en yeni trendlere kadar ilham kaynağı tasarımlar.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <img src="/images/berber2.jpg" class="card-img-top" alt="Bakım" />
+            <div class="card-body">
+                <h5 class="card-title">Kaliteli Bakım</h5>
+                <p class="card-text">Saç ve cilt bakımında profesyonel kadromuzla hizmet veriyoruz.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <img src="/images/berber1.png" class="card-img-top" alt="Mutlu Müşteriler" />
+            <div class="card-body">
+                <h5 class="card-title">Mutlu Müşteriler</h5>
+                <p class="card-text">Güleryüzlü hizmet ve memnuniyet odaklı yaklaşım.</p>
+            </div>
+        </div>
+    </div>
+</div>
